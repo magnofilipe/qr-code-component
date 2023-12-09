@@ -11,7 +11,7 @@ Abaixo, a imagem do projeto finalizado. É importante ressaltar que, apesar do d
 
 ### Deploy
 
-Acesse o projeto no GitHub Pages: [Clique aqui.](https://your-solution-url.com)
+Acesse o projeto no GitHub Pages: [Clique aqui.](https://magnofilipe.github.io/qr-code-component/)
 
 ### Ferramentas utilizadas
 
