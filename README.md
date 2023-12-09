@@ -6,7 +6,7 @@ Este repositório apresenta a solução para um dos desafios do site Frontend Me
 
 ### Screenshot
 
-<img src="/design/desktop-design.jpg">
+<img src="/design/QR Code - Desafio Frontend Mentor.png">
 
 ### Deploy
 
