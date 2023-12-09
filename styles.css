@@ -15,6 +15,7 @@ body * {
 .card {
     margin: 56px auto 0;
     width: 350px;
+    min-width: 300px;
     height: 550px;
     border-radius: 15px;
     background-color: #fff;
@@ -31,7 +32,7 @@ body * {
     border-radius: 15px;
 }
 
-.title {
+.title, .text {
     margin: auto;
     text-align: center;
     width: 75%;
@@ -41,4 +42,11 @@ body * {
     font-size: 23px;
     font-weight: 700;
     color: hsl(218, 44%, 22%);
+}
+
+.text p {
+    font-size: 15px;
+    font-weight: 400;
+    color: hsl(220, 15%, 55%);
+    margin-top: 10px;
 }
